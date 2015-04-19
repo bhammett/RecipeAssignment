@@ -27,6 +27,7 @@ body {
   padding: 50px;
 }
 
+
 #fourth {
   padding: 50px;
 }
@@ -46,7 +47,7 @@ h2:hover {
 }
 
 ul {
-  margin-left: 550px;
+  margin-left: 40%;
   text-align: left;
 }
 
